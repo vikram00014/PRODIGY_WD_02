@@ -14,7 +14,3 @@ This is a simple yet fully functional stopwatch web application built using **HT
 - CSS
 - JavaScript
 
-### 📸 Preview
-*(Add screenshot or link to demo if available)*
-
----
